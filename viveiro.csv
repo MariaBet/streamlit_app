@@ -1,0 +1,34 @@
+data;especie;semeadura;germinacao;porcentagem;mudas_prontas;producao
+20/03/2020;Castanheira;48;31;;Jacarandá mimoso;15
+20/03/2020;flamboyant;60;15;;Carne de vaca;9
+20/03/2020;Oiti;78;75;;Flamboian;8
+20/03/2020;Olho de Pombo;10;0;;Jatobá;7
+20/03/2020;Panã;68;3;;Ypê branco;11
+20/03/2020;Murta Flor;96;62;;Ypê roxo;12
+23/03/2020;Saputá;40;25;;Lixia;9
+23/03/2020;Limão Galego;40;40;;Castanha;2
+26/03/2020;Jequitibá;20;9;;Ingá;7
+26/03/2020;Baru;24;13;;Baru;13
+26/03/2020;Amarelinho;384;200;;Oiti;75
+31/03/2020;Saputá;40;12;;Castanheira;31
+31/03/2020;Jaca;110;100;;Saputá;25
+07/04/2020;Goiaba Branca;40;40;;Amarelinho;200
+13/04/2020;Jequitibá;17;12;;Jaca;100
+22/04/2020;Jatobá;119;78;;Jatobá;78
+22/04/2020;Ingá;12;12;;Sibupuruna;6
+23/04/2020;Caju;50;40;;Guanhuma;20
+24/04/2020;Pau-Ferro;20;12;;Cambuci;50
+25/04/2020;Sibipuruna;30;6;;Mulungu;12
+26/04/2020;Cambuci;60;50;;Araça;69
+27/04/2020;Guanhuma;50;20;;;
+28/04/2020;Mulungu;12;12;;;
+29/04/2020;Pitangueira;4;4;;;
+30/04/2020;Jacarandá;78;23;;;
+01/05/2020;Araça;98;69;;;
+02/05/2020;Aroeira Salsa;52;50;;;
+03/05/2020;Canafístula ;36;30;;;
+04/05/2020;Canudo de pito;52;43;;;
+05/05/2020;Quaresmeira;12;10;;;
+06/05/2020;Manacá da Serra;42;36;;;
+07/05/2020;Tipuana;72;69;;;
+08/05/2020;Marianheiro;23;20;;;
